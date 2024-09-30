@@ -1,6 +1,6 @@
 # Turning Numbers into Insights: How I Help Organizations Improve
 
-👋 Hi, I’m @QuantTicoLSE, and I’m passionate about using data to understand how organizations work and how they can transform for the better.
+👋 Hi, I’m @PatternsOfChange, and I’m passionate about using data to understand how organizations work and how they can transform for the better.
 
 I specialize in analyzing numbers that tell stories about how people behave within organizations—whether in the public or private sector. By digging into this data, I uncover patterns and insights that help firms improve how they operate. 
 
