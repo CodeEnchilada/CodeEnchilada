@@ -10,7 +10,7 @@ For example, I might analyze how employees spend their time in meetings versus a
 
 💞️ I’m looking to collaborate on projects that use quantitative analysis to drive meaningful change in both public and private organizations. If you're working on something exciting, I’d love to hear about it!
 
-📫 How to reach me: [juancarlos@lucidity.work] | [https://www.linkedin.com/in/jcvalverde/] | [@changecorner]
+📫 How to reach me: | [https://www.linkedin.com/in/jcvalverde/] | [@changecorner]
 
 ⚡ Fun fact: When I’m not crunching numbers, you can find me enjoying some tacos on the beach or exploring architectural wonders in Mexico.
 
